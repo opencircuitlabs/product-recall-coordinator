@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "recallId": "REC-001",
+  "product": "sensor-controller",
+  "revision": "A",
+  "status": "draft",
+  "reason": "Power component safety risk",
+  "owner": "quality",
+  "openedAt": "2026-10-01",
+  "jurisdictions": [
+    "EU",
+    "US"
+  ],
+  "approvals": [],
+  "criteria": {
+    "products": [
+      "sensor-controller"
+    ],
+    "revisions": [
+      "A"
+    ],
+    "lots": [
+      "L100"
+    ],
+    "serialRange": {
+      "from": "SN100",
+      "to": "SN199"
+    }
+  },
+  "contentHash": "3d9eb3255a2fd7eaa3c924dff9fe5f0439f25695a501ae53a91c3e4e8bded7db"
+}
